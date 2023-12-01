@@ -1,3 +1,7 @@
+*.png
+*.jpg
+*.xlsx
+*.html
 linienplot.png
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,python,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,python,visualstudiocode
